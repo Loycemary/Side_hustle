@@ -17,6 +17,7 @@ body{
     width: 500px;
     padding: 10px;
     font-size: larger;
+    font-weight: bold;
     color: black;
     background-color: whitesmoke
 }
@@ -28,6 +29,7 @@ body{
     justify-content: space-between;
     padding: 20px;
     font-size: large;
+    font-weight: lighter;
     background-color: white;
 }
 .input-contents{
