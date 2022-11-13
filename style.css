@@ -2,13 +2,13 @@ body{
     margin: 0px auto;
 }
 .container{
-    height: 650px;
+    height: 750px;
     margin: auto;
     width: 900px;
     display: flex;
 }
 .background{
-    height: 700px;
+    height: 650px;
     width: 400px;
     position: relative;
 }
