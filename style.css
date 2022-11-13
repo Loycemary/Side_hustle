@@ -2,9 +2,9 @@ body{
     margin: 0px auto;
 }
 .container{
-    height: 500px;
+    height: 650px;
     margin: auto;
-    width: 1000px;
+    width: 900px;
     display: flex;
 }
 .background{
