@@ -2,7 +2,7 @@ body{
     margin: 0px auto;
 }
 .container{
-    height: 650px;
+    height: 500px;
     margin: auto;
     width: 1000px;
     display: flex;
