@@ -8,13 +8,13 @@ body{
     display: flex;
 }
 .background{
-    height: 650px;
+    height: 700px;
     width: 400px;
     position: relative;
 }
 .contents{
     height: 650px;
-    width: 400px;
+    width: 500px;
     padding: 10px;
     font-size: larger;
     font-weight: bold;
