@@ -9,12 +9,12 @@ body{
 }
 .background{
     height: 650px;
-    width: 600px;
+    width:400px;
     position: relative;
 }
 .contents{
     height: 650px;
-    width: 600px;
+    width: 500px;
     padding: 10px;
     font-size: larger;
     font-weight: bold;
